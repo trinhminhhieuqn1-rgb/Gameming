@@ -1,0 +1,6 @@
+{
+  "name": "Neo-Valkyrie: Kinetic Vector",
+  "description": "A high-octane 3D sci-fi antigravity combat arena game with procedural physics, responsive controls, and dynamic encounters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
